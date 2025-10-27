@@ -1,0 +1,18 @@
+# Compiled files
+*.class
+target/
+out/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Mac files
+.DS_Store
+
+# Maven
+dependency-reduced-pom.xml
+
+# Log files
+*.log
