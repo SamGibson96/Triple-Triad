@@ -1,6 +1,6 @@
 Triple Triad (Console Edition)
 
-A simple, text-based recreation of Triple Triad — the iconic card game from Final Fantasy VIII — built in Java.
+A simple, text-based recreation of Triple Triad — a card game from Final Fantasy VIII — built in Java.
 Players take turns placing cards on a 3×3 grid, battling for control of spaces using the cards’ numerical stats.
 
 ![Triple Triad Gameplay](ScreenShots/Gameplay.png)
